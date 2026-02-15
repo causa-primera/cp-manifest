@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 type: software
-title: "Causa Primera — cp-core-03-apparatus-method"
+title: "Causa Primera — cp-manifest"
 authors:
   - family-names: "Fernandez Tamames"
     given-names: "Jose"
-repository-code: "https://github.com/causa-primera/cp-core-03-apparatus-method"
+repository-code: "https://github.com/causa-primera/cp-manifest"
 license: "CC-BY-4.0"
