@@ -20,3 +20,6 @@
 
 ## Dependency rule
 Core → Methods → Domains. Core does not depend on anything.
+
+- Update rule: Any new repository created under `causa-primera` must be added to this SYSTEM_MAP.md and INDEX.md in the same session.
+
